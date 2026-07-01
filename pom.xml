@@ -50,5 +50,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
+    <java.version>21</java.version>
 </project>
